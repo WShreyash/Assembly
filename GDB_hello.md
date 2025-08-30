@@ -8,5 +8,4 @@ nexti
 nexti
 nexti
 nexti
-info registers
 quit 

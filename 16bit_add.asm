@@ -23,5 +23,4 @@ _start:
 ;break _start
 ;run
 ;nexti         
-;info registers
 
