@@ -4,10 +4,9 @@ gdb ./hello
 
 break _start
 run
-si
-si
-si
-si
+nexti
+nexti
+nexti
+nexti
 info registers
-x/s $ecx
 quit 
