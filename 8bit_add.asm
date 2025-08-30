@@ -1,3 +1,5 @@
+;Addition of two 8bit numbers via user input
+
 section .bss
     num1   resb 2
     num2   resb 2
